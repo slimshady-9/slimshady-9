@@ -1,5 +1,5 @@
 
-Ketan Sarda
+**Ketan Sarda**
 -----------------------------------------------------------------------------
 Passionate Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
@@ -7,15 +7,16 @@ Hi! I'm Ketan, a full-stack developer with experience of more than 2 years.
 I have a proven track record of delivering scalable solutions and driving developer productivity, as demonstrated in projects like Patient Risk Stratification and Wellness Peers.
 
 
+
 Tech Stack
----------------------------------------------------------------
-Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML & CSS
+----------------------------------------------------------------------------
+**Languages:** Python, C, C++, Java, JavaScript, TypeScript, HTML & CSS
 
-Frontend: Angular, React, Stencil JS, HTML/CSS
+**Frontend:** Angular, React, Stencil JS, HTML/CSS
 
-Backend: Spring Boot, Node.js, SQL, MongoDB
+**Backend:** Spring Boot, Node.js, SQL, MongoDB
 
-Tools & Frameworks: AWS, Azure, Jenkins, Docker, Kubernetes
+**Tools & Frameworks:** AWS, Azure, Jenkins, Docker, Kubernetes
 
 -----------------------------------------------------------------------------
 Get in Touch
