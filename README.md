@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**slimshady-9/slimshady-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ketan Sarda
+Portfolio: https://ketan-sarda.netlify.app/
+Passionate Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+Hi! I'm Ketan, a full-stack developer with experience of more than 2 years.
+I have a proven track record of delivering scalable solutions and driving developer productivity, as demonstrated in projects like Patient Risk Stratification and Wellness Peers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+Languages: Python, C, C++, Java, JavaScript, TypeScript, HTML & CSS
+Frontend: Angular, React, Stencil JS, HTML/CSS
+Backend: Spring Boot, Node.js, SQL, MongoDB
+Cloud: AWS, Azure
+Tools & Frameworks: Jenkins, Docker, Kubernetes
+
+Get in Touch
+Feel free to connect with me on sardak@uci.edu, LinkedIn/in/ketan-sarda or reach out through GitHub issues if you'd like to collaborate!
