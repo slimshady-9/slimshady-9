@@ -4,7 +4,7 @@
 Passionate Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
 Hi! I'm Ketan, a full-stack developer with experience of more than 2 years.
-I have a proven track record of delivering scalable solutions and driving developer productivity, as demonstrated in projects like Patient Risk Stratification and Wellness Peers.
+I have a proven track record of delivering scalable solutions and driving developer productivity, as demonstrated in projects like MedTranscribe and Wellness Peers.
 
 
 
